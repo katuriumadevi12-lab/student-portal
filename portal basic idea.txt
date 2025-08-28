@@ -1,0 +1,8 @@
+# Student Portal Demo
+
+## Basic Idea of Student Portal Application
+- Students can log in and view profile, courses, results, and attendance.  
+- Faculty can upload assignments, post announcements, and update marks.  
+- Admin can manage students, faculty, courses, and system settings.  
+- Provides a centralized platform for academic activities.  
+
